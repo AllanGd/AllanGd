@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**AllanGd/AllanGd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I currently work as an Innovation Analyst.
+- 🌱 I am currently learning java.
+- :arrows_clockwise: I intend to become a full stack developer.
+- :earth_americas: I'm Brazilian and I currently live in Campina Grande/PB.
+- 😄 Pronouns: He/His
+- ⚡ Curiosity: In moments of leisure, I enjoy playing video games and watching series.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/AllanGd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanGd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGd&layout=compact&langs_count=7&theme=dracula"/>
+</div>
